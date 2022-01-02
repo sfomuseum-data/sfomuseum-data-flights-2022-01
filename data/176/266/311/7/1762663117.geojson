@@ -2,10 +2,12 @@
   "id": 1762663117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T11:26:40Z",
+    "edtf:inception": "2022-01-01T06:55:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-01",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12062605"
+    },
     "wof:country": "US",
     "wof:created": 1641139990,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,7 +91,7 @@
       1159283813,
       1745882105
     ],
-    "wof:lastmodified": 1641139990,
+    "wof:lastmodified": 1641140367,
     "wof:name": "AS334 (SFO-EWR)",
     "wof:parent_id": 1745882105,
     "wof:placetype": "custom",

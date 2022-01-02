@@ -2,10 +2,12 @@
   "id": 1762661933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T06:23:00Z",
+    "edtf:inception": "2022-01-01T05:07:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-01",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12060252"
+    },
     "wof:country": "US",
     "wof:created": 1641139694,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -50,7 +55,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1641139694,
+    "wof:lastmodified": 1641140373,
     "wof:name": "WN5117 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

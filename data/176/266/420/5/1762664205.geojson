@@ -2,10 +2,12 @@
   "id": 1762664205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T11:27:03Z",
+    "edtf:inception": "2022-01-01T07:29:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-01",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12062436"
+    },
     "wof:country": "US",
     "wof:created": 1641140257,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -86,7 +91,7 @@
       1159285413,
       1745882293
     ],
-    "wof:lastmodified": 1641140257,
+    "wof:lastmodified": 1641140368,
     "wof:name": "UA1711 (SFO-CLE)",
     "wof:parent_id": 1745882293,
     "wof:placetype": "custom",

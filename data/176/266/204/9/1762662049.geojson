@@ -2,10 +2,12 @@
   "id": 1762662049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T01:36:25Z",
+    "edtf:inception": "2022-01-01T00:45:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-01",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12050977"
+    },
     "wof:country": "US",
     "wof:created": 1641139724,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,7 +91,7 @@
       1159285413,
       1745882321
     ],
-    "wof:lastmodified": 1641139724,
+    "wof:lastmodified": 1641140364,
     "wof:name": "UA1548 (LAX-SFO)",
     "wof:parent_id": 1745882321,
     "wof:placetype": "custom",

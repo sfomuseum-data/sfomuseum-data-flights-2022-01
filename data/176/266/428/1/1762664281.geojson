@@ -2,10 +2,12 @@
   "id": 1762664281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T05:47:44Z",
+    "edtf:inception": "2022-01-01T04:55:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-01",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12059582"
+    },
     "wof:country": "US",
     "wof:created": 1641140276,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,7 +91,7 @@
       1159285413,
       1745882317
     ],
-    "wof:lastmodified": 1641140276,
+    "wof:lastmodified": 1641140375,
     "wof:name": "UA2159 (SFO-LAX)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",

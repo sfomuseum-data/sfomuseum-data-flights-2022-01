@@ -2,10 +2,12 @@
   "id": 1762662143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T04:02:26Z",
+    "edtf:inception": "2022-01-01T03:03:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-01",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12056546"
+    },
     "wof:country": "US",
     "wof:created": 1641139747,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -86,7 +91,7 @@
       1159285413,
       1745882255
     ],
-    "wof:lastmodified": 1641139747,
+    "wof:lastmodified": 1641140374,
     "wof:name": "UA2333 (SNA-SFO)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "custom",

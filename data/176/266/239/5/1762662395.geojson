@@ -2,10 +2,12 @@
   "id": 1762662395,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
     "date:inception_lower": "2022-01-01",
     "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "edtf:cessation": "2022-01-01T10:02:42-08:00",
+    "edtf:inception": "2022-01-01T16:26:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.381651,
     "geom:longitude": -0.285817999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102550331,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2352U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12076863",
+      "swim:gufi": "KO01660100"
+    },
     "wof:country": "US",
     "wof:created": 1641139810,
     "wof:geomhash": "0a16624c451961804ad27ef012213244",
@@ -48,9 +62,9 @@
       102527513,
       102550331,
       1159285413,
-      -1
+      1159289993
     ],
-    "wof:lastmodified": 1641139810,
+    "wof:lastmodified": 1641140365,
     "wof:name": "UA858 (PVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

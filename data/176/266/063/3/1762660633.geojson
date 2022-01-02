@@ -2,10 +2,12 @@
   "id": 1762660633,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-01",
-    "date:inception_upper": "2022-01-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-01",
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-01-01",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-01-01T03:07:22-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1641081600,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-01-01",
@@ -21,6 +23,7 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
@@ -34,6 +37,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGTZS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -86,7 +93,7 @@
       1159283597,
       1745882419
     ],
-    "wof:lastmodified": 1641139359,
+    "wof:lastmodified": 1641140370,
     "wof:name": "AC737 (YYZ-SFO)",
     "wof:parent_id": 1745882419,
     "wof:placetype": "custom",
