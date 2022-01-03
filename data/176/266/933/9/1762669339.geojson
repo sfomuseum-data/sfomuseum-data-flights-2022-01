@@ -2,10 +2,12 @@
   "id": 1762669339,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-02",
+    "date:cessation_upper": "2022-01-02",
     "date:inception_lower": "2022-01-02",
     "date:inception_upper": "2022-01-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-02",
+    "edtf:cessation": "2022-01-02T02:59:16Z",
+    "edtf:inception": "2022-01-02T01:51:00Z",
     "flysfo:actual_timestamp": 1641168000,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-02",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12109359"
+    },
     "wof:country": "US",
     "wof:created": 1641226403,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,7 +91,7 @@
       1159283813,
       1745882105
     ],
-    "wof:lastmodified": 1641226403,
+    "wof:lastmodified": 1641226759,
     "wof:name": "AS704 (SFO-LAS)",
     "wof:parent_id": 1745882105,
     "wof:placetype": "custom",
