@@ -2,10 +2,12 @@
   "id": 1762673515,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-03",
+    "date:cessation_upper": "2022-01-03",
     "date:inception_lower": "2022-01-03",
     "date:inception_upper": "2022-01-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-03",
+    "edtf:cessation": "2022-01-03T05:50:03Z",
+    "edtf:inception": "2022-01-03T02:26:00Z",
     "flysfo:actual_timestamp": 1641254400,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-03",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12163918"
+    },
     "wof:country": "US",
     "wof:created": 1641312283,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -86,7 +91,7 @@
       1159283813,
       1745882097
     ],
-    "wof:lastmodified": 1641312283,
+    "wof:lastmodified": 1641313552,
     "wof:name": "AS1100 (AUS-SFO)",
     "wof:parent_id": 1745882097,
     "wof:placetype": "custom",

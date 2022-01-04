@@ -2,10 +2,12 @@
   "id": 1762673543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-03",
+    "date:cessation_upper": "2022-01-03",
     "date:inception_lower": "2022-01-03",
     "date:inception_upper": "2022-01-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-03",
+    "edtf:cessation": "2022-01-03T13:47:46-08:00",
+    "edtf:inception": "2022-01-03T22:32:00Z",
     "flysfo:actual_timestamp": 1641254400,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530741,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N519AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12227867"
+    },
     "wof:country": "US",
     "wof:created": 1641312291,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762673543,
     "wof:involves": [
+      1159289871,
       102527513,
       102530741,
       1159283813,
       1745882101
     ],
-    "wof:lastmodified": 1641312291,
+    "wof:lastmodified": 1641313552,
     "wof:name": "AS1359 (BOS-SFO)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",

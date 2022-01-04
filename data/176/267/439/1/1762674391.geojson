@@ -2,10 +2,12 @@
   "id": 1762674391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-03",
+    "date:cessation_upper": "2022-01-03",
     "date:inception_lower": "2022-01-03",
     "date:inception_upper": "2022-01-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-03",
+    "edtf:cessation": "2022-01-03T00:21:18-08:00",
+    "edtf:inception": "2022-01-03T15:15:00Z",
     "flysfo:actual_timestamp": 1641223260,
     "flysfo:airline": "B6",
     "flysfo:date": "2022-01-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "B6",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N964JT",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12195690",
+      "swim:gufi": "KL50531200"
+    },
     "wof:country": "US",
     "wof:created": 1641312506,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1762674391,
     "wof:involves": [
+      1745882143,
+      1159289411,
       102527513,
       102533795,
-      1159284583,
-      1745882143
+      1159284583
     ],
-    "wof:lastmodified": 1641312506,
+    "wof:lastmodified": 1641313549,
     "wof:name": "B62836 (LAX-SFO)",
     "wof:parent_id": 1745882143,
     "wof:placetype": "custom",
