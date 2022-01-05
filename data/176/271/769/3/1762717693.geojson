@@ -2,10 +2,12 @@
   "id": 1762717693,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-04",
-    "date:inception_upper": "2022-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-04",
+    "date:cessation_lower": "2022-01-04",
+    "date:cessation_upper": "2022-01-04",
+    "date:inception_lower": "2022-01-05",
+    "date:inception_upper": "2022-01-05",
+    "edtf:cessation": "2022-01-04T12:49:23-08:00",
+    "edtf:inception": "2022-01-05T00:52:00Z",
     "flysfo:actual_timestamp": 1641340800,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531131,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N826DN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KP85803300"
+    },
     "wof:country": "US",
     "wof:created": 1641398835,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762717693,
     "wof:involves": [
+      1377564285,
       102527513,
       102531131,
       1159284261,
       1745882215
     ],
-    "wof:lastmodified": 1641398835,
+    "wof:lastmodified": 1641399682,
     "wof:name": "DL968 (MSP-SFO)",
     "wof:parent_id": 1745882215,
     "wof:placetype": "custom",

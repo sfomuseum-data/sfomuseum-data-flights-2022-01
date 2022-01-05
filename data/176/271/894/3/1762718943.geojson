@@ -2,10 +2,12 @@
   "id": 1762718943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-04",
+    "date:cessation_upper": "2022-01-04",
     "date:inception_lower": "2022-01-04",
     "date:inception_upper": "2022-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-04",
+    "edtf:cessation": "2022-01-04T04:25:05Z",
+    "edtf:inception": "2022-01-04T01:39:00Z",
     "flysfo:actual_timestamp": 1641340800,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-01-04",
@@ -48,6 +50,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12242342"
+    },
     "wof:country": "US",
     "wof:created": 1641399153,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -86,7 +91,7 @@
       1159283849,
       1745882169
     ],
-    "wof:lastmodified": 1641399153,
+    "wof:lastmodified": 1641399687,
     "wof:name": "AA1175 (SFO-DFW)",
     "wof:parent_id": 1745882169,
     "wof:placetype": "custom",

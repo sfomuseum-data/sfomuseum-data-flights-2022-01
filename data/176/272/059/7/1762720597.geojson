@@ -2,10 +2,12 @@
   "id": 1762720597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-05",
+    "date:cessation_upper": "2022-01-05",
     "date:inception_lower": "2022-01-04",
     "date:inception_upper": "2022-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-04",
+    "edtf:cessation": "2022-01-05T12:28:00Z",
+    "edtf:inception": "2022-01-04T08:33:00Z",
     "flysfo:actual_timestamp": 1641340800,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N14115",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12253929",
+      "swim:gufi": "KO15196400"
+    },
     "wof:country": "US",
     "wof:created": 1641399571,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1762720597,
     "wof:involves": [
+      1159289939,
       102530741,
       102527513,
       1159285413,
       1745882283
     ],
-    "wof:lastmodified": 1641399571,
+    "wof:lastmodified": 1641399679,
     "wof:name": "UA1925 (SFO-BOS)",
     "wof:parent_id": 1745882283,
     "wof:placetype": "custom",

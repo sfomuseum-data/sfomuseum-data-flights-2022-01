@@ -2,10 +2,12 @@
   "id": 1762717255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-04",
+    "date:cessation_upper": "2022-01-04",
     "date:inception_lower": "2022-01-04",
     "date:inception_upper": "2022-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-04",
+    "edtf:cessation": "2022-01-04T08:52:28Z",
+    "edtf:inception": "2022-01-04T04:22:00Z",
     "flysfo:actual_timestamp": 1641340800,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-04",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12247705"
+    },
     "wof:country": "US",
     "wof:created": 1641398715,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -86,7 +91,7 @@
       1159283813,
       1745882107
     ],
-    "wof:lastmodified": 1641398715,
+    "wof:lastmodified": 1641399680,
     "wof:name": "AS244 (OGG-SFO)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",

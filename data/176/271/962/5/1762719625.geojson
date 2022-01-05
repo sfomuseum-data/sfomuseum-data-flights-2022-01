@@ -2,10 +2,12 @@
   "id": 1762719625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-04",
+    "date:cessation_upper": "2022-01-04",
     "date:inception_lower": "2022-01-04",
     "date:inception_upper": "2022-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-04",
+    "edtf:cessation": "2022-01-04T06:48:59Z",
+    "edtf:inception": "2022-01-04T05:42:00Z",
     "flysfo:actual_timestamp": 1641340800,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-04",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12249469"
+    },
     "wof:country": "US",
     "wof:created": 1641399328,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,7 +91,7 @@
       1159283813,
       1745882101
     ],
-    "wof:lastmodified": 1641399328,
+    "wof:lastmodified": 1641399683,
     "wof:name": "AS386 (SFO-LAS)",
     "wof:parent_id": 1745882101,
     "wof:placetype": "custom",

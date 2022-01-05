@@ -2,10 +2,12 @@
   "id": 1762717211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-04",
+    "date:cessation_upper": "2022-01-04",
     "date:inception_lower": "2022-01-04",
     "date:inception_upper": "2022-01-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-04",
+    "edtf:cessation": "2022-01-04T06:09:00Z",
+    "edtf:inception": "2022-01-04T00:26:00Z",
     "flysfo:actual_timestamp": 1641340800,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-04",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12229797"
+    },
     "wof:country": "US",
     "wof:created": 1641398699,
     "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
@@ -86,7 +91,7 @@
       1159283813,
       1745882099
     ],
-    "wof:lastmodified": 1641398699,
+    "wof:lastmodified": 1641399679,
     "wof:name": "AS1002 (DCA-SFO)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "custom",
