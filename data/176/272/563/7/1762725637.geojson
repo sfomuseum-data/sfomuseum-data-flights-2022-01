@@ -2,10 +2,12 @@
   "id": 1762725637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-05",
+    "date:cessation_upper": "2022-01-05",
     "date:inception_lower": "2022-01-05",
     "date:inception_upper": "2022-01-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-05",
+    "edtf:cessation": "2022-01-05T07:31:00Z",
+    "edtf:inception": "2022-01-05T02:35:00Z",
     "flysfo:actual_timestamp": 1641427200,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525635,
@@ -48,6 +52,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12318483",
+      "swim:gufi": "KC05754401"
+    },
     "wof:country": "US",
     "wof:created": 1641485258,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1762725637,
     "wof:involves": [
+      1377564285,
       102527513,
       102525635,
       1159284261,
       1745882205
     ],
-    "wof:lastmodified": 1641485258,
+    "wof:lastmodified": 1641486326,
     "wof:name": "DL1704 (DTW-SFO)",
     "wof:parent_id": 1745882205,
     "wof:placetype": "custom",

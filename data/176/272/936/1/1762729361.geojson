@@ -2,10 +2,12 @@
   "id": 1762729361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-05",
+    "date:cessation_upper": "2022-01-05",
     "date:inception_lower": "2022-01-05",
     "date:inception_upper": "2022-01-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-05",
+    "edtf:cessation": "2022-01-05T03:03:17Z",
+    "edtf:inception": "2022-01-05T01:43:00Z",
     "flysfo:actual_timestamp": 1641427200,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-05",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12313600"
+    },
     "wof:country": "US",
     "wof:created": 1641486222,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -50,7 +55,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1641486222,
+    "wof:lastmodified": 1641486329,
     "wof:name": "UA284 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1762724757,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-05",
-    "date:inception_upper": "2022-01-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-05",
+    "date:cessation_lower": "2022-01-05",
+    "date:cessation_upper": "2022-01-05",
+    "date:inception_lower": "2022-01-06",
+    "date:inception_upper": "2022-01-06",
+    "edtf:cessation": "2022-01-05T13:39:55-08:00",
+    "edtf:inception": "2022-01-06T00:45:00Z",
     "flysfo:actual_timestamp": 1641427200,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-01-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "A321",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555091,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGIUF",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12309702",
+      "swim:gufi": "KP85286400"
+    },
     "wof:country": "US",
     "wof:created": 1641485006,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1762724757,
     "wof:involves": [
+      1159289411,
       102527513,
       102555091,
-      1159283597,
-      -1
+      1159283597
     ],
-    "wof:lastmodified": 1641485006,
+    "wof:lastmodified": 1641486324,
     "wof:name": "AC745 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
