@@ -2,10 +2,12 @@
   "id": 1762732973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-06",
+    "date:cessation_upper": "2022-01-06",
     "date:inception_lower": "2022-01-06",
     "date:inception_upper": "2022-01-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-06",
+    "edtf:cessation": "2022-01-06T04:07:16Z",
+    "edtf:inception": "2022-01-06T02:34:00Z",
     "flysfo:actual_timestamp": 1641513600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-06",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12396165"
+    },
     "wof:country": "US",
     "wof:created": 1641571728,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,7 +91,7 @@
       1159285413,
       1745882319
     ],
-    "wof:lastmodified": 1641571728,
+    "wof:lastmodified": 1641572217,
     "wof:name": "UA1915 (PHX-SFO)",
     "wof:parent_id": 1745882319,
     "wof:placetype": "custom",

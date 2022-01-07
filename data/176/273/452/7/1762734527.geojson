@@ -2,10 +2,12 @@
   "id": 1762734527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-06",
+    "date:cessation_upper": "2022-01-06",
     "date:inception_lower": "2022-01-06",
     "date:inception_upper": "2022-01-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-06",
+    "edtf:cessation": "2022-01-06T05:09:00Z",
+    "edtf:inception": "2022-01-06T01:35:00Z",
     "flysfo:actual_timestamp": 1641513600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8721885,
     "geom:longitude": -104.5237975,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102525035,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12390646",
+      "swim:gufi": "KO84422400"
+    },
     "wof:country": "US",
     "wof:created": 1641572132,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1762734527,
     "wof:involves": [
+      1159289407,
       102525035,
       102527513,
       1159285413,
       1745882247
     ],
-    "wof:lastmodified": 1641572132,
+    "wof:lastmodified": 1641572212,
     "wof:name": "UA2097 (SFO-BNA)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",

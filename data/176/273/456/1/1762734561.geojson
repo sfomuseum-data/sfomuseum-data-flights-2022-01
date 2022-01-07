@@ -2,10 +2,12 @@
   "id": 1762734561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-07",
+    "date:cessation_upper": "2022-01-07",
     "date:inception_lower": "2022-01-06",
     "date:inception_upper": "2022-01-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-06",
+    "edtf:cessation": "2022-01-07T11:53:00Z",
+    "edtf:inception": "2022-01-06T15:07:04-08:00",
     "flysfo:actual_timestamp": 1641513600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.0247425,
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N36469",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12401592",
+      "swim:gufi": "KO19201600"
+    },
     "wof:country": "US",
     "wof:created": 1641572140,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1762734561,
     "wof:involves": [
+      1377564285,
       102533657,
       102527513,
       1159285413,
       1745882295
     ],
-    "wof:lastmodified": 1641572140,
+    "wof:lastmodified": 1641572220,
     "wof:name": "UA2440 (SFO-MCO)",
     "wof:parent_id": 1745882295,
     "wof:placetype": "custom",
