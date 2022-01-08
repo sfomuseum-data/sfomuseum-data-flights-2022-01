@@ -2,10 +2,12 @@
   "id": 1762742355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-07",
+    "date:cessation_upper": "2022-01-07",
     "date:inception_lower": "2022-01-07",
     "date:inception_upper": "2022-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-07",
+    "edtf:cessation": "2022-01-07T05:31:56Z",
+    "edtf:inception": "2022-01-07T04:25:00Z",
     "flysfo:actual_timestamp": 1641592440,
     "flysfo:airline": "F9",
     "flysfo:date": "2022-01-07",
@@ -48,6 +50,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12475149"
+    },
     "wof:country": "US",
     "wof:created": 1641658403,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,7 +91,7 @@
       1159284401,
       1745882389
     ],
-    "wof:lastmodified": 1641658403,
+    "wof:lastmodified": 1641658621,
     "wof:name": "F92084 (SFO-LAS)",
     "wof:parent_id": 1745882389,
     "wof:placetype": "custom",

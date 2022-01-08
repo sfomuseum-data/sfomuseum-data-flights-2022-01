@@ -2,10 +2,12 @@
   "id": 1762741119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-07",
+    "date:cessation_upper": "2022-01-07",
     "date:inception_lower": "2022-01-07",
     "date:inception_upper": "2022-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-07",
+    "edtf:cessation": "2022-01-07T08:38:00Z",
+    "edtf:inception": "2022-01-07T06:20:00Z",
     "flysfo:actual_timestamp": 1641600000,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-07",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12475444"
+    },
     "wof:country": "US",
     "wof:created": 1641658072,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -50,7 +55,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1641658072,
+    "wof:lastmodified": 1641658616,
     "wof:name": "WN1006 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

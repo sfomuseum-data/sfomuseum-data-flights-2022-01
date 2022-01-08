@@ -2,10 +2,12 @@
   "id": 1762742873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-08",
+    "date:cessation_upper": "2022-01-08",
     "date:inception_lower": "2022-01-07",
     "date:inception_upper": "2022-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-07",
+    "edtf:cessation": "2022-01-08T00:38:00Z",
+    "edtf:inception": "2022-01-07T22:45:00Z",
     "flysfo:actual_timestamp": 1641595980,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N33266",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12534746",
+      "swim:gufi": "KO74591600"
+    },
     "wof:country": "US",
     "wof:created": 1641658535,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762742873,
     "wof:involves": [
+      1159289871,
       102531189,
       102527513,
       1159285413,
       1745882303
     ],
-    "wof:lastmodified": 1641658535,
+    "wof:lastmodified": 1641658621,
     "wof:name": "UA2230 (SFO-DEN)",
     "wof:parent_id": 1745882303,
     "wof:placetype": "custom",

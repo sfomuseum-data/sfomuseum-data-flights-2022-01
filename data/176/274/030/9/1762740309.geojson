@@ -2,10 +2,12 @@
   "id": 1762740309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-07",
+    "date:cessation_upper": "2022-01-07",
     "date:inception_lower": "2022-01-07",
     "date:inception_upper": "2022-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-07",
+    "edtf:cessation": "2022-01-07T06:22:34Z",
+    "edtf:inception": "2022-01-07T00:15:00Z",
     "flysfo:actual_timestamp": 1641600000,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-07",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12462644"
+    },
     "wof:country": "US",
     "wof:created": 1641657846,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -86,7 +91,7 @@
       1159283813,
       1745882107
     ],
-    "wof:lastmodified": 1641657846,
+    "wof:lastmodified": 1641658614,
     "wof:name": "AS1359 (BOS-SFO)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",

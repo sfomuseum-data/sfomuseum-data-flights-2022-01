@@ -2,10 +2,12 @@
   "id": 1762742829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-07",
+    "date:cessation_upper": "2022-01-07",
     "date:inception_lower": "2022-01-07",
     "date:inception_upper": "2022-01-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-07",
+    "edtf:cessation": "2022-01-07T09:53:00Z",
+    "edtf:inception": "2022-01-07T05:23:00Z",
     "flysfo:actual_timestamp": 1641600000,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12458826"
+    },
     "wof:country": "US",
     "wof:created": 1641658524,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -81,12 +88,13 @@
     ],
     "wof:id": 1762742829,
     "wof:involves": [
+      1159289985,
       102530049,
       102527513,
       1159285413,
       1745882291
     ],
-    "wof:lastmodified": 1641658524,
+    "wof:lastmodified": 1641658613,
     "wof:name": "UA1909 (SFO-EWR)",
     "wof:parent_id": 1745882291,
     "wof:placetype": "custom",
