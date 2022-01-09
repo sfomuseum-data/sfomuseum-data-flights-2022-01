@@ -2,10 +2,12 @@
   "id": 1762747891,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-08",
-    "date:inception_upper": "2022-01-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-08",
+    "date:cessation_lower": "2022-01-09",
+    "date:cessation_upper": "2022-01-09",
+    "date:inception_lower": "2022-01-09",
+    "date:inception_upper": "2022-01-09",
+    "edtf:cessation": "2022-01-09T04:16:35Z",
+    "edtf:inception": "2022-01-09T00:38:00Z",
     "flysfo:actual_timestamp": 1641686400,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.674126,
     "geom:longitude": -104.324809,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534155,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N846UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12542347",
+      "swim:gufi": "KO81054700"
+    },
     "wof:country": "US",
     "wof:created": 1641744918,
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762747891,
     "wof:involves": [
+      1159289407,
       102534155,
       102527513,
       1159285413,
       1745882319
     ],
-    "wof:lastmodified": 1641744918,
+    "wof:lastmodified": 1641745011,
     "wof:name": "UA2070 (SFO-IND)",
     "wof:parent_id": 1745882319,
     "wof:placetype": "custom",

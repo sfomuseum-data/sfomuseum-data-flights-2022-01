@@ -2,10 +2,12 @@
   "id": 1762747907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-08",
+    "date:cessation_upper": "2022-01-08",
     "date:inception_lower": "2022-01-08",
     "date:inception_upper": "2022-01-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-08",
+    "edtf:cessation": "2022-01-08T10:34:48Z",
+    "edtf:inception": "2022-01-08T06:22:00Z",
     "flysfo:actual_timestamp": 1641686400,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-08",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12541877"
+    },
     "wof:country": "US",
     "wof:created": 1641744923,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,7 +91,7 @@
       1159285413,
       1745882283
     ],
-    "wof:lastmodified": 1641744923,
+    "wof:lastmodified": 1641745004,
     "wof:name": "UA213 (SFO-EWR)",
     "wof:parent_id": 1745882283,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1762747771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-08",
+    "date:cessation_upper": "2022-01-08",
     "date:inception_lower": "2022-01-08",
     "date:inception_upper": "2022-01-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-08",
+    "edtf:cessation": "2022-01-08T02:37:05Z",
+    "edtf:inception": "2022-01-08T01:31:00Z",
     "flysfo:actual_timestamp": 1641686400,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-08",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12545107"
+    },
     "wof:country": "US",
     "wof:created": 1641744887,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -50,7 +55,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1641744887,
+    "wof:lastmodified": 1641745010,
     "wof:name": "WN4953 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

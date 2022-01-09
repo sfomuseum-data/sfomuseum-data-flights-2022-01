@@ -2,10 +2,12 @@
   "id": 1762746185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-08",
+    "date:cessation_upper": "2022-01-08",
     "date:inception_lower": "2022-01-08",
     "date:inception_upper": "2022-01-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-08",
+    "edtf:cessation": "2022-01-08T06:00:33Z",
+    "edtf:inception": "2022-01-08T04:55:00Z",
     "flysfo:actual_timestamp": 1641686400,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-08",
@@ -48,6 +50,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12551774"
+    },
     "wof:country": "US",
     "wof:created": 1641744480,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -86,7 +91,7 @@
       1159285591,
       1745882153
     ],
-    "wof:lastmodified": 1641744480,
+    "wof:lastmodified": 1641745007,
     "wof:name": "WN5117 (SAN-SFO)",
     "wof:parent_id": 1745882153,
     "wof:placetype": "custom",

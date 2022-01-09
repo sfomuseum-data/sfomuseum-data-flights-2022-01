@@ -2,10 +2,12 @@
   "id": 1762745641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-08",
+    "date:cessation_upper": "2022-01-08",
     "date:inception_lower": "2022-01-08",
     "date:inception_upper": "2022-01-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-08",
+    "edtf:cessation": "2022-01-08T03:06:11-08:00",
+    "edtf:inception": "2022-01-08T15:17:00Z",
     "flysfo:actual_timestamp": 1641674880,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531131,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N103DY",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12571765",
+      "swim:gufi": "KP50459701"
+    },
     "wof:country": "US",
     "wof:created": 1641744333,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762745641,
     "wof:involves": [
-      102527513,
-      102531131,
       1159284261,
-      1745882203
+      1745882203,
+      1159289411,
+      102527513,
+      102531131
     ],
-    "wof:lastmodified": 1641744333,
+    "wof:lastmodified": 1641745006,
     "wof:name": "DL1152 (MSP-SFO)",
     "wof:parent_id": 1745882203,
     "wof:placetype": "custom",
