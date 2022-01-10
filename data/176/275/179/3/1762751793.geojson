@@ -2,10 +2,12 @@
   "id": 1762751793,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-09",
+    "date:cessation_upper": "2022-01-09",
     "date:inception_lower": "2022-01-09",
     "date:inception_upper": "2022-01-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-09",
+    "edtf:cessation": "2022-01-09T23:30:00Z",
+    "edtf:inception": "2022-01-09T20:24:00Z",
     "flysfo:actual_timestamp": 1641767220,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-01-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.260825,
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528541,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12665770"
+    },
     "wof:country": "US",
     "wof:created": 1641831109,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -84,9 +91,10 @@
       102528541,
       102527513,
       1159283849,
-      1745882169
+      1745882169,
+      1159289871
     ],
-    "wof:lastmodified": 1641831109,
+    "wof:lastmodified": 1641831509,
     "wof:name": "AA2798 (SFO-DFW)",
     "wof:parent_id": 1745882169,
     "wof:placetype": "custom",
