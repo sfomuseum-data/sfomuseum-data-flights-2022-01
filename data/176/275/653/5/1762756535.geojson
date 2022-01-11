@@ -1,0 +1,69 @@
+{
+  "id": 1762756535,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-01-10",
+    "date:inception_upper": "2022-01-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-01-10",
+    "flysfo:actual_timestamp": 1641859200,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2022-01-10",
+    "flysfo:estimated_timestamp": 1641882540,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA1416",
+    "flysfo:gate": "",
+    "flysfo:journey": "ORD-SFO",
+    "flysfo:scheduled_timestamp": 1641882540,
+    "flysfo:timestamp": 1641882540,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102533631,
+    "sfomuseum:flight_id": "20220110-A-UAL-1416",
+    "sfomuseum:flight_number": [
+      "UAL1416",
+      "UA1416"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1641917362,
+    "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1762756535
+      }
+    ],
+    "wof:id": 1762756535,
+    "wof:involves": [
+      102527513,
+      102533631,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1641917362,
+    "wof:name": "UA1416 (ORD-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-01",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
+  ],
+  "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
