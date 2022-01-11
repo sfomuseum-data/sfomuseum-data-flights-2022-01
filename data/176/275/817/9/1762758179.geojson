@@ -2,10 +2,12 @@
   "id": 1762758179,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-10",
+    "date:cessation_upper": "2022-01-10",
     "date:inception_lower": "2022-01-10",
     "date:inception_upper": "2022-01-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-10",
+    "edtf:cessation": "2022-01-10T07:49:25Z",
+    "edtf:inception": "2022-01-10T06:58:00Z",
     "flysfo:actual_timestamp": 1641859200,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-10",
@@ -48,6 +50,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12696770"
+    },
     "wof:country": "US",
     "wof:created": 1641917782,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,7 +91,7 @@
       1159285413,
       1745882309
     ],
-    "wof:lastmodified": 1641917782,
+    "wof:lastmodified": 1641917863,
     "wof:name": "UA2236 (SFO-LAX)",
     "wof:parent_id": 1745882309,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1762757309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-10",
+    "date:cessation_upper": "2022-01-10",
     "date:inception_lower": "2022-01-10",
     "date:inception_upper": "2022-01-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-10",
+    "edtf:cessation": "2022-01-10T11:36:54Z",
+    "edtf:inception": "2022-01-10T06:46:00Z",
     "flysfo:actual_timestamp": 1641859200,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-10",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12696755"
+    },
     "wof:country": "US",
     "wof:created": 1641917563,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -86,7 +91,7 @@
       1159283813,
       1745882099
     ],
-    "wof:lastmodified": 1641917563,
+    "wof:lastmodified": 1641917862,
     "wof:name": "AS191 (SFO-EWR)",
     "wof:parent_id": 1745882099,
     "wof:placetype": "custom",

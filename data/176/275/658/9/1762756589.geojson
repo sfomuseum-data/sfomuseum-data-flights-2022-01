@@ -2,10 +2,12 @@
   "id": 1762756589,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-10",
+    "date:cessation_upper": "2022-01-10",
     "date:inception_lower": "2022-01-10",
     "date:inception_upper": "2022-01-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-10",
+    "edtf:cessation": "2022-01-10T12:47:41-08:00",
+    "edtf:inception": "2022-01-10T23:19:00Z",
     "flysfo:actual_timestamp": 1641859200,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.70423,
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531023,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N67501",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12746157"
+    },
     "wof:country": "US",
     "wof:created": 1641917376,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762756589,
     "wof:involves": [
-      102527513,
       102531023,
       1159285413,
-      1745882249
+      1745882249,
+      1528104577,
+      102527513
     ],
-    "wof:lastmodified": 1641917376,
+    "wof:lastmodified": 1641917868,
     "wof:name": "UA1862 (MIA-SFO)",
     "wof:parent_id": 1745882249,
     "wof:placetype": "custom",
