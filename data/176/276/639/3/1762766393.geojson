@@ -2,10 +2,12 @@
   "id": 1762766393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-11",
+    "date:cessation_upper": "2022-01-11",
     "date:inception_lower": "2022-01-11",
     "date:inception_upper": "2022-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-11",
+    "edtf:cessation": "2022-01-11T06:21:27Z",
+    "edtf:inception": "2022-01-11T04:53:00Z",
     "flysfo:actual_timestamp": 1641945600,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-11",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12760119"
+    },
     "wof:country": "US",
     "wof:created": 1642004190,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -86,7 +91,7 @@
       1159283813,
       1745882103
     ],
-    "wof:lastmodified": 1642004190,
+    "wof:lastmodified": 1642004607,
     "wof:name": "AS207 (SFO-PDX)",
     "wof:parent_id": 1745882103,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1762765493,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-12",
+    "date:cessation_upper": "2022-01-12",
     "date:inception_lower": "2022-01-11",
     "date:inception_upper": "2022-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-11",
+    "edtf:cessation": "2022-01-12T04:15:00Z",
+    "edtf:inception": "2022-01-11T22:20:00Z",
     "flysfo:actual_timestamp": 1641945600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.130638000000005,
     "geom:longitude": -98.07939400000001,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534365,
@@ -48,6 +52,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12810983",
+      "swim:gufi": "KN68589300"
+    },
     "wof:country": "US",
     "wof:created": 1642003966,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1762765493,
     "wof:involves": [
+      1159289939,
       102527513,
       102534365,
       1159285413,
       1745882283
     ],
-    "wof:lastmodified": 1642003966,
+    "wof:lastmodified": 1642004606,
     "wof:name": "UA523 (JFK-SFO)",
     "wof:parent_id": 1745882283,
     "wof:placetype": "custom",

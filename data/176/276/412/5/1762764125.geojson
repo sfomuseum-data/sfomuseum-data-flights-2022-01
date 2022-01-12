@@ -2,10 +2,12 @@
   "id": 1762764125,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-11",
-    "date:inception_upper": "2022-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-11",
+    "date:cessation_lower": "2022-01-11",
+    "date:cessation_upper": "2022-01-11",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-01-11T13:31:12-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": 1641945600,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533243,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N267AK",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1762764125,
     "wof:involves": [
-      102527513,
       102533243,
       1159283813,
-      1745882097
+      1745882097,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1642003615,
+    "wof:lastmodified": 1642004612,
     "wof:name": "AS607 (TPA-SFO)",
     "wof:parent_id": 1745882097,
     "wof:placetype": "custom",

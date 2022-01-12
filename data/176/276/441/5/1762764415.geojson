@@ -2,10 +2,12 @@
   "id": 1762764415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-12",
+    "date:cessation_upper": "2022-01-12",
     "date:inception_lower": "2022-01-11",
     "date:inception_upper": "2022-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-11",
+    "edtf:cessation": "2022-01-12T03:34:00Z",
+    "edtf:inception": "2022-01-11T21:44:00Z",
     "flysfo:actual_timestamp": 1641945600,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.130638000000005,
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534365,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N192DN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12810823",
+      "swim:gufi": "KN74764300"
+    },
     "wof:country": "US",
     "wof:created": 1642003690,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762764415,
     "wof:involves": [
+      1159289965,
       102527513,
       102534365,
       1159284261,
       1745882211
     ],
-    "wof:lastmodified": 1642003690,
+    "wof:lastmodified": 1642004612,
     "wof:name": "DL311 (JFK-SFO)",
     "wof:parent_id": 1745882211,
     "wof:placetype": "custom",

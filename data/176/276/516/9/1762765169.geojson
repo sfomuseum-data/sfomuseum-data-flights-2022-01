@@ -2,10 +2,12 @@
   "id": 1762765169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-12",
+    "date:cessation_upper": "2022-01-12",
     "date:inception_lower": "2022-01-11",
     "date:inception_upper": "2022-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-11",
+    "edtf:cessation": "2022-01-12T01:22:00Z",
+    "edtf:inception": "2022-01-11T23:43:00Z",
     "flysfo:actual_timestamp": 1641945600,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8511K",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -84,9 +93,10 @@
       102527513,
       102526751,
       1159285591,
-      1745882153
+      1745882153,
+      1159289871
     ],
-    "wof:lastmodified": 1642003881,
+    "wof:lastmodified": 1642004605,
     "wof:name": "WN2164 (PHX-SFO)",
     "wof:parent_id": 1745882153,
     "wof:placetype": "custom",

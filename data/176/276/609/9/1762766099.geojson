@@ -2,10 +2,12 @@
   "id": 1762766099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-12",
+    "date:cessation_upper": "2022-01-12",
     "date:inception_lower": "2022-01-11",
     "date:inception_upper": "2022-01-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-11",
+    "edtf:cessation": "2022-01-12T05:40:00Z",
+    "edtf:inception": "2022-01-11T09:28:14-08:00",
     "flysfo:actual_timestamp": 1641945600,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-01-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "A320",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGKOE",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO82468300"
+    },
     "wof:country": "US",
     "wof:created": 1642004118,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -48,9 +60,9 @@
       102555091,
       102527513,
       1159283597,
-      -1
+      1159292085
     ],
-    "wof:lastmodified": 1642004118,
+    "wof:lastmodified": 1642004607,
     "wof:name": "AC744 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
