@@ -2,10 +2,12 @@
   "id": 1762774293,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-12",
-    "date:inception_upper": "2022-01-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-12",
+    "date:cessation_lower": "2022-01-13",
+    "date:cessation_upper": "2022-01-13",
+    "date:inception_lower": "2022-01-13",
+    "date:inception_upper": "2022-01-13",
+    "edtf:cessation": "2022-01-13T16:53:21Z",
+    "edtf:inception": "2022-01-13T04:03:00Z",
     "flysfo:actual_timestamp": 1642032000,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.811792499999996,
     "geom:longitude": -43.7468645,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102542687,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N23983",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12830169",
+      "swim:gufi": "KO01465500"
+    },
     "wof:country": "US",
     "wof:created": 1642090912,
     "wof:geomhash": "1b9d916c097bbded3c8620fa2d25ceca",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1762774293,
     "wof:involves": [
-      102542687,
-      102527513,
       1159285413,
-      1745882413
+      1745882413,
+      1159293215,
+      102542687,
+      102527513
     ],
-    "wof:lastmodified": 1642090912,
+    "wof:lastmodified": 1642090944,
     "wof:name": "UA954 (SFO-TLV)",
     "wof:parent_id": 1745882413,
     "wof:placetype": "custom",

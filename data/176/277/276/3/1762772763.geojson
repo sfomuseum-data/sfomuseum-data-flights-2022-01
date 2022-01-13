@@ -2,10 +2,12 @@
   "id": 1762772763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-13",
+    "date:cessation_upper": "2022-01-13",
     "date:inception_lower": "2022-01-12",
     "date:inception_upper": "2022-01-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-12",
+    "edtf:cessation": "2022-01-13T00:50:00Z",
+    "edtf:inception": "2022-01-12T21:00:00Z",
     "flysfo:actual_timestamp": 1642019940,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-12",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12872967"
+    },
     "wof:country": "US",
     "wof:created": 1642090495,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -86,7 +91,7 @@
       1159283813,
       1745882093
     ],
-    "wof:lastmodified": 1642090495,
+    "wof:lastmodified": 1642090940,
     "wof:name": "AS1208 (SFO-ORD)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",
