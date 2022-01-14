@@ -2,10 +2,12 @@
   "id": 1762779561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-13",
+    "date:cessation_upper": "2022-01-13",
     "date:inception_lower": "2022-01-13",
     "date:inception_upper": "2022-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-13",
+    "edtf:cessation": "2022-01-13T15:19:11Z",
+    "edtf:inception": "2022-01-13T07:12:00Z",
     "flysfo:actual_timestamp": 1642118400,
     "flysfo:airline": "BF",
     "flysfo:date": "2022-01-13",
@@ -48,6 +50,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12983300"
+    },
     "wof:country": "US",
     "wof:created": 1642176976,
     "wof:geomhash": "f971d3f872ee602b2fa6051cf4be0e69",
@@ -86,7 +91,7 @@
       1377649073,
       1745882369
     ],
-    "wof:lastmodified": 1642176976,
+    "wof:lastmodified": 1642177295,
     "wof:name": "BF710 (SFO-PPT)",
     "wof:parent_id": 1745882369,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1762780121,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-13",
+    "date:cessation_upper": "2022-01-13",
     "date:inception_lower": "2022-01-13",
     "date:inception_upper": "2022-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-13",
+    "edtf:cessation": "2022-01-13T19:37:00Z",
+    "edtf:inception": "2022-01-13T18:06:00Z",
     "flysfo:actual_timestamp": 1642096740,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N8520Q",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +53,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12944665"
+    },
     "wof:country": "US",
     "wof:created": 1642177118,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1762780121,
     "wof:involves": [
+      1159289871,
       102526751,
       102527513,
       1159285591,
       1745882153
     ],
-    "wof:lastmodified": 1642177118,
+    "wof:lastmodified": 1642177282,
     "wof:name": "WN358 (SFO-PHX)",
     "wof:parent_id": 1745882153,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1762778125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-13",
+    "date:cessation_upper": "2022-01-13",
     "date:inception_lower": "2022-01-13",
     "date:inception_upper": "2022-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-13",
+    "edtf:cessation": "2022-01-13T22:59:16Z",
+    "edtf:inception": "2022-01-13T21:28:00Z",
     "flysfo:actual_timestamp": 1642115400,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N853UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12963332",
+      "swim:gufi": "KU61931500"
+    },
     "wof:country": "US",
     "wof:created": 1642176613,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762778125,
     "wof:involves": [
+      1159289407,
       102527513,
       102527363,
       1159285413,
       1745882321
     ],
-    "wof:lastmodified": 1642176613,
+    "wof:lastmodified": 1642177292,
     "wof:name": "UA1579 (SLC-SFO)",
     "wof:parent_id": 1745882321,
     "wof:placetype": "custom",

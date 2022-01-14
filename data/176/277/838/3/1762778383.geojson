@@ -2,10 +2,12 @@
   "id": 1762778383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-13",
+    "date:cessation_upper": "2022-01-13",
     "date:inception_lower": "2022-01-13",
     "date:inception_upper": "2022-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-13",
+    "edtf:cessation": "2022-01-13T06:48:50Z",
+    "edtf:inception": "2022-01-13T02:15:00Z",
     "flysfo:actual_timestamp": 1642118400,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-13",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "12904505"
+    },
     "wof:country": "US",
     "wof:created": 1642176678,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -50,7 +55,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1642176678,
+    "wof:lastmodified": 1642177293,
     "wof:name": "UA650 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

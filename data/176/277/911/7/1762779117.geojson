@@ -2,10 +2,12 @@
   "id": 1762779117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-14",
+    "date:cessation_upper": "2022-01-14",
     "date:inception_lower": "2022-01-13",
     "date:inception_upper": "2022-01-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-13",
+    "edtf:cessation": "2022-01-14T01:13:11Z",
+    "edtf:inception": "2022-01-13T20:14:00Z",
     "flysfo:actual_timestamp": 1642103580,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-13",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "12947923"
+    },
     "wof:country": "US",
     "wof:created": 1642176866,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,7 +91,7 @@
       1159283813,
       1745882107
     ],
-    "wof:lastmodified": 1642176866,
+    "wof:lastmodified": 1642177295,
     "wof:name": "AS192 (SFO-JFK)",
     "wof:parent_id": 1745882107,
     "wof:placetype": "custom",
