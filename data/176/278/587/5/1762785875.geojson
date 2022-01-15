@@ -2,10 +2,12 @@
   "id": 1762785875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-15",
+    "date:cessation_upper": "2022-01-15",
     "date:inception_lower": "2022-01-14",
     "date:inception_upper": "2022-01-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-14",
+    "edtf:cessation": "2022-01-15T05:10:04Z",
+    "edtf:inception": "2022-01-14T08:03:33-08:00",
     "flysfo:actual_timestamp": 1642204200,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N6713Y",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13057531",
+      "swim:gufi": "KO80165600"
+    },
     "wof:country": "US",
     "wof:created": 1642263427,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1762785875,
     "wof:involves": [
+      1159289939,
       102530741,
       102527513,
       1159284261,
       1745882213
     ],
-    "wof:lastmodified": 1642263427,
+    "wof:lastmodified": 1642263792,
     "wof:name": "DL1202 (SFO-BOS)",
     "wof:parent_id": 1745882213,
     "wof:placetype": "custom",
