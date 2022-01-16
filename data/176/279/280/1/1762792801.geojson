@@ -2,10 +2,12 @@
   "id": 1762792801,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-15",
-    "date:inception_upper": "2022-01-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-15",
+    "date:cessation_lower": "2022-01-16",
+    "date:cessation_upper": "2022-01-16",
+    "date:inception_lower": "2022-01-16",
+    "date:inception_upper": "2022-01-16",
+    "edtf:cessation": "2022-01-16T11:52:00Z",
+    "edtf:inception": "2022-01-16T08:12:00Z",
     "flysfo:actual_timestamp": 1642319760,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76526",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13077421",
+      "swim:gufi": "KO17294100"
+    },
     "wof:country": "US",
     "wof:created": 1642350000,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1762792801,
     "wof:involves": [
+      1159289871,
       102533631,
       102527513,
       1159285413,
       1745882317
     ],
-    "wof:lastmodified": 1642350000,
+    "wof:lastmodified": 1642350105,
     "wof:name": "UA476 (SFO-ORD)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",

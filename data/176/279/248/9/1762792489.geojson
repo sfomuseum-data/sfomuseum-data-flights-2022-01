@@ -2,10 +2,12 @@
   "id": 1762792489,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-15",
-    "date:inception_upper": "2022-01-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-15",
+    "date:cessation_lower": "2022-01-16",
+    "date:cessation_upper": "2022-01-16",
+    "date:inception_lower": "2022-01-16",
+    "date:inception_upper": "2022-01-16",
+    "edtf:cessation": "2022-01-16T04:24:00Z",
+    "edtf:inception": "2022-01-16T02:19:00Z",
     "flysfo:actual_timestamp": 1642299180,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-01-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N208WN",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +91,13 @@
     ],
     "wof:id": 1762792489,
     "wof:involves": [
-      102531189,
       102527513,
       1159285591,
-      1745882151
+      1745882151,
+      1159289869,
+      102531189
     ],
-    "wof:lastmodified": 1642349920,
+    "wof:lastmodified": 1642350103,
     "wof:name": "WN5424 (SFO-DEN)",
     "wof:parent_id": 1745882151,
     "wof:placetype": "custom",

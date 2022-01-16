@@ -2,10 +2,12 @@
   "id": 1762790519,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-15",
+    "date:cessation_upper": "2022-01-15",
     "date:inception_lower": "2022-01-15",
     "date:inception_upper": "2022-01-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-15",
+    "edtf:cessation": "2022-01-15T00:55:55-08:00",
+    "edtf:inception": "2022-01-15T11:29:00Z",
     "flysfo:actual_timestamp": 1642266000,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.7471565,
     "geom:longitude": -100.580671,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528779,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N77510",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13080804",
+      "swim:gufi": "KW29085701"
+    },
     "wof:country": "US",
     "wof:created": 1642349431,
     "wof:geomhash": "e1d14091bb010ff3febce3dc78c1c8b4",
@@ -84,9 +98,10 @@
       102527513,
       102528779,
       1159285413,
-      1745882293
+      1745882293,
+      1159289871
     ],
-    "wof:lastmodified": 1642349431,
+    "wof:lastmodified": 1642350095,
     "wof:name": "UA2458 (RDU-SFO)",
     "wof:parent_id": 1745882293,
     "wof:placetype": "custom",
