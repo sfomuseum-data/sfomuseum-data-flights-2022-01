@@ -2,10 +2,12 @@
   "id": 1762794219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-17",
+    "date:cessation_upper": "2022-01-17",
     "date:inception_lower": "2022-01-16",
     "date:inception_upper": "2022-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-16",
+    "edtf:cessation": "2022-01-17T05:10:00Z",
+    "edtf:inception": "2022-01-16T23:43:00Z",
     "flysfo:actual_timestamp": 1642377600,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-01-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528659,
@@ -48,6 +52,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13192586"
+    },
     "wof:country": "US",
     "wof:created": 1642435312,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -81,12 +88,13 @@
     ],
     "wof:id": 1762794219,
     "wof:involves": [
+      1159289871,
       102527513,
       102528659,
       1159283849,
       1745882165
     ],
-    "wof:lastmodified": 1642435312,
+    "wof:lastmodified": 1642436558,
     "wof:name": "AA1580 (CLT-SFO)",
     "wof:parent_id": 1745882165,
     "wof:placetype": "custom",

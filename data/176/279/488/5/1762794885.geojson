@@ -2,10 +2,12 @@
   "id": 1762794885,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-16",
+    "date:cessation_upper": "2022-01-16",
     "date:inception_lower": "2022-01-16",
     "date:inception_upper": "2022-01-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-16",
+    "edtf:cessation": "2022-01-16T05:16:00Z",
+    "edtf:inception": "2022-01-16T04:11:00Z",
     "flysfo:actual_timestamp": 1642377600,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-16",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "13146145"
+    },
     "wof:country": "US",
     "wof:created": 1642435504,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1642435504,
+    "wof:lastmodified": 1642436568,
     "wof:name": "AS242 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
