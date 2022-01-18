@@ -2,10 +2,12 @@
   "id": 1762803203,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-17",
+    "date:cessation_upper": "2022-01-17",
     "date:inception_lower": "2022-01-17",
     "date:inception_upper": "2022-01-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-17",
+    "edtf:cessation": "2022-01-17T01:04:21Z",
+    "edtf:inception": "2022-01-17T00:09:00Z",
     "flysfo:actual_timestamp": 1642464000,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-17",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "13196726"
+    },
     "wof:country": "US",
     "wof:created": 1642522542,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1642522542,
+    "wof:lastmodified": 1642522994,
     "wof:name": "AS216 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

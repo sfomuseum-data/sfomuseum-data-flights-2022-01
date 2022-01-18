@@ -2,10 +2,12 @@
   "id": 1762802005,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-17",
-    "date:inception_upper": "2022-01-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-17",
+    "date:cessation_lower": "2022-01-17",
+    "date:cessation_upper": "2022-01-17",
+    "date:inception_lower": "2022-01-18",
+    "date:inception_upper": "2022-01-18",
+    "edtf:cessation": "2022-01-17T10:29:27-08:00",
+    "edtf:inception": "2022-01-18T01:31:00Z",
     "flysfo:actual_timestamp": 1642473240,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.647857,
     "geom:longitude": -120.1186115,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534161,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78501",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL83160200"
+    },
     "wof:country": "US",
     "wof:created": 1642522238,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762802005,
     "wof:involves": [
-      102527513,
       102534161,
       1159285413,
-      1745882277
+      1745882277,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1642522238,
+    "wof:lastmodified": 1642522991,
     "wof:name": "UA1593 (SNA-SFO)",
     "wof:parent_id": 1745882277,
     "wof:placetype": "custom",

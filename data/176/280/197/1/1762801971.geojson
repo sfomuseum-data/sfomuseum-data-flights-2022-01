@@ -2,10 +2,12 @@
   "id": 1762801971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-17",
+    "date:cessation_upper": "2022-01-17",
     "date:inception_lower": "2022-01-17",
     "date:inception_upper": "2022-01-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-17",
+    "edtf:cessation": "2022-01-17T23:11:42Z",
+    "edtf:inception": "2022-01-17T22:26:00Z",
     "flysfo:actual_timestamp": 1642461180,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.022982,
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527337,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N838UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13252510",
+      "swim:gufi": "KL66465200"
+    },
     "wof:country": "US",
     "wof:created": 1642522229,
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762801971,
     "wof:involves": [
+      1159289407,
       102527513,
       102527337,
       1159285413,
       1745882255
     ],
-    "wof:lastmodified": 1642522229,
+    "wof:lastmodified": 1642523003,
     "wof:name": "UA1402 (SBA-SFO)",
     "wof:parent_id": 1745882255,
     "wof:placetype": "custom",
