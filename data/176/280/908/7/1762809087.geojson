@@ -2,10 +2,12 @@
   "id": 1762809087,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-18",
+    "date:cessation_upper": "2022-01-18",
     "date:inception_lower": "2022-01-18",
     "date:inception_upper": "2022-01-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-18",
+    "edtf:cessation": "2022-01-18T04:13:05Z",
+    "edtf:inception": "2022-01-18T02:39:00Z",
     "flysfo:actual_timestamp": 1642550400,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-18",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "13265331"
+    },
     "wof:country": "US",
     "wof:created": 1642608875,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -50,7 +55,7 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1642608875,
+    "wof:lastmodified": 1642609306,
     "wof:name": "AS1304 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

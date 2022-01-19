@@ -2,10 +2,12 @@
   "id": 1762808025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-18",
+    "date:cessation_upper": "2022-01-18",
     "date:inception_lower": "2022-01-18",
     "date:inception_upper": "2022-01-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-18",
+    "edtf:cessation": "2022-01-18T23:14:34Z",
+    "edtf:inception": "2022-01-18T21:39:00Z",
     "flysfo:actual_timestamp": 1642548240,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N893UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +56,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13313826",
+      "swim:gufi": "KA67014300"
+    },
     "wof:country": "US",
     "wof:created": 1642608602,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762808025,
     "wof:involves": [
-      102527513,
       102526751,
       1159285413,
-      1745882247
+      1745882247,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1642608602,
+    "wof:lastmodified": 1642609302,
     "wof:name": "UA1896 (PHX-SFO)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",
