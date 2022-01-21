@@ -2,10 +2,12 @@
   "id": 1762840547,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-20",
+    "date:cessation_upper": "2022-01-20",
     "date:inception_lower": "2022-01-20",
     "date:inception_upper": "2022-01-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-20",
+    "edtf:cessation": "2022-01-20T23:33:35Z",
+    "edtf:inception": "2022-01-20T11:59:00Z",
     "flysfo:actual_timestamp": 1642722120,
     "flysfo:airline": "SK",
     "flysfo:date": "2022-01-20",
@@ -48,6 +50,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13417139"
+    },
     "wof:country": "US",
     "wof:created": 1642781374,
     "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
@@ -86,7 +91,7 @@
       1159285129,
       1745882419
     ],
-    "wof:lastmodified": 1642781374,
+    "wof:lastmodified": 1642782201,
     "wof:name": "SK935 (CPH-SFO)",
     "wof:parent_id": 1745882419,
     "wof:placetype": "custom",
