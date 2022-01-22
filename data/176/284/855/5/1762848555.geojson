@@ -2,10 +2,12 @@
   "id": 1762848555,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-21",
-    "date:inception_upper": "2022-01-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-21",
+    "date:cessation_lower": "2022-01-22",
+    "date:cessation_upper": "2022-01-22",
+    "date:inception_lower": "2022-01-22",
+    "date:inception_upper": "2022-01-22",
+    "edtf:cessation": "2022-01-22T10:17:00Z",
+    "edtf:inception": "2022-01-22T05:08:00Z",
     "flysfo:actual_timestamp": 1642827120,
     "flysfo:airline": "B6",
     "flysfo:date": "2022-01-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "B6",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N989JT",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO11574700"
+    },
     "wof:country": "US",
     "wof:created": 1642868283,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762848555,
     "wof:involves": [
+      1745882143,
+      1159289411,
       102530049,
       102527513,
-      1159284583,
-      1745882143
+      1159284583
     ],
-    "wof:lastmodified": 1642868283,
+    "wof:lastmodified": 1642868563,
     "wof:name": "B6482 (SFO-EWR)",
     "wof:parent_id": 1745882143,
     "wof:placetype": "custom",

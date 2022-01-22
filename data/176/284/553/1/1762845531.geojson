@@ -2,10 +2,12 @@
   "id": 1762845531,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-21",
+    "date:cessation_upper": "2022-01-21",
     "date:inception_lower": "2022-01-21",
     "date:inception_upper": "2022-01-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-21",
+    "edtf:cessation": "2022-01-21T17:36:00Z",
+    "edtf:inception": "2022-01-21T16:37:00Z",
     "flysfo:actual_timestamp": 1642786980,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N560AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13514420"
+    },
     "wof:country": "US",
     "wof:created": 1642867521,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762845531,
     "wof:involves": [
+      1159289871,
       102527513,
       102533795,
       1159283813,
       1745882121
     ],
-    "wof:lastmodified": 1642867521,
+    "wof:lastmodified": 1642868567,
     "wof:name": "AS204 (LAX-SFO)",
     "wof:parent_id": 1745882121,
     "wof:placetype": "custom",
