@@ -2,10 +2,12 @@
   "id": 1762859679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-23",
+    "date:cessation_upper": "2022-01-23",
     "date:inception_lower": "2022-01-23",
     "date:inception_upper": "2022-01-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-23",
+    "edtf:cessation": "2022-01-23T17:51:00Z",
+    "edtf:inception": "2022-01-23T16:37:00Z",
     "flysfo:actual_timestamp": 1642954980,
     "flysfo:airline": "F9",
     "flysfo:date": "2022-01-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "F9",
+    "icao:aircraft": "A320",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N205FR",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13660702"
+    },
     "wof:country": "US",
     "wof:created": 1643041052,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762859679,
     "wof:involves": [
+      1159292085,
       102527209,
       102527513,
       1159284401,
       1745882399
     ],
-    "wof:lastmodified": 1643041052,
+    "wof:lastmodified": 1643041385,
     "wof:name": "F92078 (SFO-LAS)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",

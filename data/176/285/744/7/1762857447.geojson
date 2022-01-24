@@ -2,10 +2,12 @@
   "id": 1762857447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-23",
+    "date:cessation_upper": "2022-01-23",
     "date:inception_lower": "2022-01-23",
     "date:inception_upper": "2022-01-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-23",
+    "edtf:cessation": "2022-01-23T11:35:03-08:00",
+    "edtf:inception": "2022-01-23T22:37:00Z",
     "flysfo:actual_timestamp": 1642995720,
     "flysfo:airline": "HA",
     "flysfo:date": "2022-01-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.256470999999998,
     "geom:longitude": -139.40440999999998,
     "iata:airline": "HA",
+    "icao:aircraft": "A21N",
     "icao:airline": "HAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284489,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532929,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N202HA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "13688635"
+    },
     "wof:country": "US",
     "wof:created": 1643040484,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -84,9 +97,10 @@
       102527513,
       102532929,
       1159284489,
-      1745882393
+      1745882393,
+      1377564297
     ],
-    "wof:lastmodified": 1643040484,
+    "wof:lastmodified": 1643041386,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1745882393,
     "wof:placetype": "custom",
