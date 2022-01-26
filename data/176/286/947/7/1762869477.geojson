@@ -2,10 +2,12 @@
   "id": 1762869477,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-25",
-    "date:inception_upper": "2022-01-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-25",
+    "date:cessation_lower": "2022-01-25",
+    "date:cessation_upper": "2022-01-25",
+    "date:inception_lower": "2022-01-26",
+    "date:inception_upper": "2022-01-26",
+    "edtf:cessation": "2022-01-25T09:17:50-08:00",
+    "edtf:inception": "2022-01-26T00:23:00Z",
     "flysfo:actual_timestamp": 1643160120,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N488UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL75141300"
+    },
     "wof:country": "US",
     "wof:created": 1643213465,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762869477,
     "wof:involves": [
+      1159292085,
       102527513,
       102533795,
       1159285413,
       1745882247
     ],
-    "wof:lastmodified": 1643213465,
+    "wof:lastmodified": 1643214194,
     "wof:name": "UA236 (LAX-SFO)",
     "wof:parent_id": 1745882247,
     "wof:placetype": "custom",
