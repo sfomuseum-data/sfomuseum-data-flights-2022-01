@@ -2,10 +2,12 @@
   "id": 1762874887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-26",
+    "date:cessation_upper": "2022-01-26",
     "date:inception_lower": "2022-01-26",
     "date:inception_upper": "2022-01-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-26",
+    "edtf:cessation": "2022-01-26T12:36:22-08:00",
+    "edtf:inception": "2022-01-26T23:40:00Z",
     "flysfo:actual_timestamp": 1643241600,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.3996545,
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532047,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2331U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "13901101",
+      "swim:gufi": "KW59485400"
+    },
     "wof:country": "US",
     "wof:created": 1643299841,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1762874887,
     "wof:involves": [
+      1159289993,
       102527513,
       102532047,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1643299841,
+    "wof:lastmodified": 1643300545,
     "wof:name": "UA2587 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

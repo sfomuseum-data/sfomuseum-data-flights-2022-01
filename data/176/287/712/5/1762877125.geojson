@@ -2,10 +2,12 @@
   "id": 1762877125,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-27",
+    "date:cessation_upper": "2022-01-27",
     "date:inception_lower": "2022-01-26",
     "date:inception_upper": "2022-01-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-26",
+    "edtf:cessation": "2022-01-27T02:38:00Z",
+    "edtf:inception": "2022-01-26T08:39:23-08:00",
     "flysfo:actual_timestamp": 1643242800,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N455UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO78891400"
+    },
     "wof:country": "US",
     "wof:created": 1643300428,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -84,9 +97,10 @@
       102531189,
       102527513,
       1159285413,
-      1745882283
+      1745882283,
+      1159292085
     ],
-    "wof:lastmodified": 1643300428,
+    "wof:lastmodified": 1643300539,
     "wof:name": "UA324 (SFO-DEN)",
     "wof:parent_id": 1745882283,
     "wof:placetype": "custom",
