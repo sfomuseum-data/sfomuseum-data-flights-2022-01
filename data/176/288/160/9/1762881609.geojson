@@ -2,10 +2,12 @@
   "id": 1762881609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-27",
+    "date:cessation_upper": "2022-01-27",
     "date:inception_lower": "2022-01-27",
     "date:inception_upper": "2022-01-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-27",
+    "edtf:cessation": "2022-01-27T22:32:00Z",
+    "edtf:inception": "2022-01-27T17:23:00Z",
     "flysfo:actual_timestamp": 1643302860,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "AS",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617101,
     "lbl:longitude": -122.382233,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N930VA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -81,12 +91,13 @@
     ],
     "wof:id": 1762881609,
     "wof:involves": [
+      1745882093,
+      1377564297,
       102530741,
       102527513,
-      1159283813,
-      1745882093
+      1159283813
     ],
-    "wof:lastmodified": 1643386614,
+    "wof:lastmodified": 1643387125,
     "wof:name": "AS1352 (SFO-BOS)",
     "wof:parent_id": 1745882093,
     "wof:placetype": "custom",
