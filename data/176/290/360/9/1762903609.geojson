@@ -2,10 +2,12 @@
   "id": 1762903609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-29",
+    "date:cessation_upper": "2022-01-29",
     "date:inception_lower": "2022-01-28",
     "date:inception_upper": "2022-01-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-28",
+    "edtf:cessation": "2022-01-29T00:25:07Z",
+    "edtf:inception": "2022-01-28T19:29:00Z",
     "flysfo:actual_timestamp": 1643397360,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N592AS",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "14048528"
+    },
     "wof:country": "US",
     "wof:created": 1643472975,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762903609,
     "wof:involves": [
-      102530049,
       102527513,
       1159283813,
-      1745882103
+      1745882103,
+      1159289871,
+      102530049
     ],
-    "wof:lastmodified": 1643472975,
+    "wof:lastmodified": 1643473406,
     "wof:name": "AS340 (SFO-EWR)",
     "wof:parent_id": 1745882103,
     "wof:placetype": "custom",
