@@ -2,10 +2,12 @@
   "id": 1762906957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-29",
+    "date:cessation_upper": "2022-01-29",
     "date:inception_lower": "2022-01-29",
     "date:inception_upper": "2022-01-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-29",
+    "edtf:cessation": "2022-01-29T07:01:19Z",
+    "edtf:inception": "2022-01-29T01:33:00Z",
     "flysfo:actual_timestamp": 1643500800,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-01-29",
@@ -48,6 +50,9 @@
       1745882085,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "14073009"
+    },
     "wof:country": "US",
     "wof:created": 1643558747,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,7 +91,7 @@
       1159283813,
       1745882105
     ],
-    "wof:lastmodified": 1643558747,
+    "wof:lastmodified": 1643559677,
     "wof:name": "AS657 (JFK-SFO)",
     "wof:parent_id": 1745882105,
     "wof:placetype": "custom",

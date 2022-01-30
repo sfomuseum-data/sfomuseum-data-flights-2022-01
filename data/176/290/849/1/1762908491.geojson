@@ -2,10 +2,12 @@
   "id": 1762908491,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-29",
-    "date:inception_upper": "2022-01-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-29",
+    "date:cessation_lower": "2022-01-30",
+    "date:cessation_upper": "2022-01-30",
+    "date:inception_lower": "2022-01-30",
+    "date:inception_upper": "2022-01-30",
+    "edtf:cessation": "2022-01-30T19:59:38Z",
+    "edtf:inception": "2022-01-29T23:21:31-08:00",
     "flysfo:actual_timestamp": 1643500800,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-01-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.055307,
     "geom:longitude": -101.315247,
     "iata:airline": "AA",
+    "icao:aircraft": "A319",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528181,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N837AW",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,9 @@
       1745882137,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO53305100"
+    },
     "wof:country": "US",
     "wof:created": 1643559136,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1762908491,
     "wof:involves": [
-      102528181,
       102527513,
       1159283849,
-      1745882173
+      1745882173,
+      1159289407,
+      102528181
     ],
-    "wof:lastmodified": 1643559136,
+    "wof:lastmodified": 1643559685,
     "wof:name": "AA9814 (SFO-PIT)",
     "wof:parent_id": 1745882173,
     "wof:placetype": "custom",

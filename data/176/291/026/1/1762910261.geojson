@@ -2,10 +2,12 @@
   "id": 1762910261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-30",
+    "date:cessation_upper": "2022-01-30",
     "date:inception_lower": "2022-01-29",
     "date:inception_upper": "2022-01-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-29",
+    "edtf:cessation": "2022-01-30T01:00:00Z",
+    "edtf:inception": "2022-01-29T23:16:00Z",
     "flysfo:actual_timestamp": 1643497440,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.6967075,
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530815,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N896UA",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +57,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "14139396",
+      "swim:gufi": "KO73322700"
+    },
     "wof:country": "US",
     "wof:created": 1643559572,
     "wof:geomhash": "8115bc7828d3bd6404c793fb172971b8",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762910261,
     "wof:involves": [
+      1159289407,
       102530815,
       102527513,
       1159285413,
       1745882317
     ],
-    "wof:lastmodified": 1643559572,
+    "wof:lastmodified": 1643559675,
     "wof:name": "UA374 (SFO-BZN)",
     "wof:parent_id": 1745882317,
     "wof:placetype": "custom",

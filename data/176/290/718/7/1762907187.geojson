@@ -2,10 +2,12 @@
   "id": 1762907187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-29",
+    "date:cessation_upper": "2022-01-29",
     "date:inception_lower": "2022-01-29",
     "date:inception_upper": "2022-01-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-29",
+    "edtf:cessation": "2022-01-29T07:42:00Z",
+    "edtf:inception": "2022-01-29T02:15:00Z",
     "flysfo:actual_timestamp": 1643500800,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-29",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.130638000000005,
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534365,
@@ -35,6 +39,10 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "14079461",
+      "swim:gufi": "KN00659700"
+    },
     "wof:country": "US",
     "wof:created": 1643558804,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -45,12 +53,12 @@
     ],
     "wof:id": 1762907187,
     "wof:involves": [
+      1159289965,
       102527513,
       102534365,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1643558804,
+    "wof:lastmodified": 1643559678,
     "wof:name": "DL314 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
