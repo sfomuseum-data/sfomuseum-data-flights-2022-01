@@ -2,10 +2,12 @@
   "id": 1762914269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-31",
+    "date:cessation_upper": "2022-01-31",
     "date:inception_lower": "2022-01-30",
     "date:inception_upper": "2022-01-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-30",
+    "edtf:cessation": "2022-01-31T01:13:13Z",
+    "edtf:inception": "2022-01-30T21:42:00Z",
     "flysfo:actual_timestamp": 1643578140,
     "flysfo:airline": "AM",
     "flysfo:date": "2022-01-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.524645999999997,
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102536579,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "XAJOY",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,9 @@
       1745882335,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "14205855"
+    },
     "wof:country": "US",
     "wof:created": 1643645675,
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1762914269,
     "wof:involves": [
+      1159289871,
       102536579,
       102527513,
       1159283539,
       1745882399
     ],
-    "wof:lastmodified": 1643645675,
+    "wof:lastmodified": 1643646209,
     "wof:name": "AM669 (SFO-MEX)",
     "wof:parent_id": 1745882399,
     "wof:placetype": "custom",

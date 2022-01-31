@@ -2,10 +2,12 @@
   "id": 1762914863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-01-30",
+    "date:cessation_upper": "2022-01-30",
     "date:inception_lower": "2022-01-30",
     "date:inception_upper": "2022-01-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-30",
+    "edtf:cessation": "2022-01-30T21:39:00Z",
+    "edtf:inception": "2022-01-30T18:36:00Z",
     "flysfo:actual_timestamp": 1643587200,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-01-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.635332,
     "geom:longitude": -108.8251435,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531775,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N661DN",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "14189753",
+      "swim:gufi": "KO64138100"
+    },
     "wof:country": "US",
     "wof:created": 1643645826,
     "wof:geomhash": "659cd7ad5e5126045522d61820d30c49",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1762914863,
     "wof:involves": [
+      1159289939,
       102531775,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1643645826,
+    "wof:lastmodified": 1643646219,
     "wof:name": "DL8926 (SFO-HOU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

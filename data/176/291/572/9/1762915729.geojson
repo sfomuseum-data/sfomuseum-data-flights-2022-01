@@ -2,10 +2,12 @@
   "id": 1762915729,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-01-30",
-    "date:inception_upper": "2022-01-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-01-30",
+    "date:cessation_lower": "2022-01-31",
+    "date:cessation_upper": "2022-01-31",
+    "date:inception_lower": "2022-01-31",
+    "date:inception_upper": "2022-01-31",
+    "edtf:cessation": "2022-01-31T04:28:00Z",
+    "edtf:inception": "2022-01-31T00:54:00Z",
     "flysfo:actual_timestamp": 1643589240,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-01-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N67501",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -48,6 +58,10 @@
       1745882233,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "14152457",
+      "swim:gufi": "KO80564100"
+    },
     "wof:country": "US",
     "wof:created": 1643646046,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -84,9 +98,10 @@
       102533631,
       102527513,
       1159285413,
-      1745882309
+      1745882309,
+      1528104577
     ],
-    "wof:lastmodified": 1643646046,
+    "wof:lastmodified": 1643646212,
     "wof:name": "UA1829 (SFO-ORD)",
     "wof:parent_id": 1745882309,
     "wof:placetype": "custom",
