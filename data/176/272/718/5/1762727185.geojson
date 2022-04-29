@@ -17,15 +17,15 @@
     "flysfo:scheduled_timestamp": 1641452400,
     "flysfo:timestamp": 1641452400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,10.810137,106.663189,37.617990",
+    "geom:latitude": 24.214063499999998,
+    "geom:longitude": -7.853876999999997,
     "iata:airline": "VN",
     "icao:airline": "",
     "lbl:latitude": 37.612048,
     "lbl:longitude": -122.389573,
     "sfomuseum:airline_id": -1,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102559025,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20220105-D--99",
     "sfomuseum:flight_number": [
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1641485670,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "a9bd12f81c63da183812f670f2a99bda",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -86,7 +86,7 @@
       -1,
       1745882381
     ],
-    "wof:lastmodified": 1641485670,
+    "wof:lastmodified": 1651260385,
     "wof:name": "VN99 (SFO-SGN)",
     "wof:parent_id": 1745882381,
     "wof:placetype": "custom",
@@ -97,9 +97,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    10.810137,
+    106.663189,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[106.663189,10.810137]],"type":"MultiPoint"}
 }

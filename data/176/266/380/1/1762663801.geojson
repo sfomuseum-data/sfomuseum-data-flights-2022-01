@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1641105000,
     "flysfo:timestamp": 1641105000,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,14.517768,121.015152,37.617990",
+    "geom:latitude": 26.067878999999998,
+    "geom:longitude": -0.6778954999999982,
     "iata:airline": "PR",
     "icao:aircraft": "B77W",
     "icao:airline": "PAL",
@@ -45,7 +45,7 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1641140159,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
     "wof:hierarchy": [
       {
         "flight_id": 1762663801
@@ -58,7 +58,7 @@
       102527513,
       1159285015
     ],
-    "wof:lastmodified": 1641140375,
+    "wof:lastmodified": 1651260383,
     "wof:name": "PR105 (SFO-MNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -69,9 +69,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    14.517768,
+    121.015152,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[121.015152,14.517768]],"type":"MultiPoint"}
 }

@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1641434400,
     "flysfo:timestamp": 1641434400,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
     "iata:airline": "SY",
     "icao:airline": "SCX",
     "lbl:latitude": 37.61799,
@@ -37,7 +37,7 @@
     "wof:belongsto": [],
     "wof:country": "US",
     "wof:created": 1641486118,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
         "flight_id": 1762728943
@@ -50,7 +50,7 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1641486118,
+    "wof:lastmodified": 1651260386,
     "wof:name": "SY396 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
@@ -61,9 +61,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
-    37.61799
+    37.61799,
+    -93.200317,
+    44.883321
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}
 }

@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1641422700,
     "flysfo:timestamp": 1641427200,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
     "iata:airline": "KL",
     "iata:base_airline": "DL",
     "icao:airline": "KLM",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1641486053,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -92,7 +92,7 @@
       1745882219,
       1159284261
     ],
-    "wof:lastmodified": 1641486053,
+    "wof:lastmodified": 1651260386,
     "wof:name": "KL7003 (SFO-MSP)",
     "wof:parent_id": 1745882219,
     "wof:placetype": "custom",
@@ -103,9 +103,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
-    37.61799
+    37.61799,
+    -93.200317,
+    44.883321
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}
 }
