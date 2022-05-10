@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1642395300,
     "flysfo:timestamp": 1642395300,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,31.941256,-102.210453,37.617990",
+    "geom:latitude": 34.779623,
+    "geom:longitude": -112.29069799999999,
     "iata:airline": "WN",
     "icao:aircraft": "B737",
     "icao:airline": "SWA",
@@ -30,7 +30,7 @@
     "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
-    "sfomuseum:departure_id": -1,
+    "sfomuseum:departure_id": 102531167,
     "sfomuseum:flight_id": "20220116-A-SWA-2824",
     "sfomuseum:flight_number": [
       "SWA2824",
@@ -58,7 +58,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1642435785,
-    "wof:geomhash": "39d9eba3dc111bfc07b45f612540f4b0",
+    "wof:geomhash": "fd632ca1420dd7d8d398a5d8462dbbe5",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -94,7 +94,7 @@
       1159285591,
       1745882153
     ],
-    "wof:lastmodified": 1642436559,
+    "wof:lastmodified": 1652201875,
     "wof:name": "WN2824 (MAF-SFO)",
     "wof:parent_id": 1745882153,
     "wof:placetype": "custom",
@@ -105,9 +105,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    31.941256,
+    -102.210453,
     37.61799
   ],
-  "geometry": {"coordinates":[[0,0],[-122.370943,37.61799]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-102.210453,31.941256],[-122.370943,37.61799]],"type":"MultiPoint"}
 }
