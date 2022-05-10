@@ -19,9 +19,9 @@
     "flysfo:scheduled_timestamp": 1642316400,
     "flysfo:timestamp": 1642320780,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,21.221111,105.807222,37.617990",
+    "geom:latitude": 29.4195505,
+    "geom:longitude": -8.2818605,
     "iata:airline": "VN",
     "icao:aircraft": "A359",
     "icao:airline": "HVN",
@@ -29,7 +29,7 @@
     "lbl:longitude": -122.389174,
     "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159285479,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102559021,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20220115-D-HVN-99",
     "sfomuseum:flight_number": [
@@ -59,7 +59,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1642349812,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "5c46ef4c6acaffe3b38044402ac06def",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -95,7 +95,7 @@
       1159285479,
       1745882377
     ],
-    "wof:lastmodified": 1642350102,
+    "wof:lastmodified": 1652205350,
     "wof:name": "VN99 (SFO-HAN)",
     "wof:parent_id": 1745882377,
     "wof:placetype": "custom",
@@ -106,9 +106,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
+    21.221111,
+    105.807222,
     37.61799
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[105.807222,21.221111]],"type":"MultiPoint"}
 }
