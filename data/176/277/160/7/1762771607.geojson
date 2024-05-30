@@ -53,6 +53,7 @@
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
     "wof:hierarchy": [
       {
+        "custom_id": 1762771607,
         "flight_id": 1762771607
       }
     ],
@@ -63,11 +64,13 @@
       1746879083,
       1159285591
     ],
-    "wof:lastmodified": 1651260390,
+    "wof:lastmodified": 1717038012,
     "wof:name": "WN629 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

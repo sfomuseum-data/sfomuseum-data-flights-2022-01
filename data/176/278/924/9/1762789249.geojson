@@ -45,6 +45,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1762789249,
         "flight_id": 1762789249
       }
     ],
@@ -55,11 +56,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1642350095,
+    "wof:lastmodified": 1717038015,
     "wof:name": "AS229 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

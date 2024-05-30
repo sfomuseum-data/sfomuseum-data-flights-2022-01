@@ -45,6 +45,7 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
+        "custom_id": 1762677161,
         "flight_id": 1762677161
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284583
     ],
-    "wof:lastmodified": 1641313199,
+    "wof:lastmodified": 1717038014,
     "wof:name": "HA2352 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

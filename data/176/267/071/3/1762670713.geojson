@@ -45,6 +45,7 @@
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
     "wof:hierarchy": [
       {
+        "custom_id": 1762670713,
         "flight_id": 1762670713
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1641226730,
+    "wof:lastmodified": 1717038011,
     "wof:name": "UA8210 (SFO-YYC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

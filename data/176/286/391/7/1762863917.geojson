@@ -48,6 +48,7 @@
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
     "wof:hierarchy": [
       {
+        "custom_id": 1762863917,
         "flight_id": 1762863917
       }
     ],
@@ -58,11 +59,13 @@
       102541685,
       1159285413
     ],
-    "wof:lastmodified": 1643128140,
+    "wof:lastmodified": 1717038018,
     "wof:name": "UA2814 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

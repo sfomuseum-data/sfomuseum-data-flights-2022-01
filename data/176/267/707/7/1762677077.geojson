@@ -49,6 +49,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1762677077,
         "flight_id": 1762677077
       }
     ],
@@ -59,11 +60,13 @@
       102527513,
       1159284401
     ],
-    "wof:lastmodified": 1641313565,
+    "wof:lastmodified": 1717038014,
     "wof:name": "F92080 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

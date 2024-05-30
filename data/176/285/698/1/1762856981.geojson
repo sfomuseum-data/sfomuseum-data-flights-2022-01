@@ -53,6 +53,7 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
+        "custom_id": 1762856981,
         "flight_id": 1762856981
       }
     ],
@@ -63,11 +64,13 @@
       102530741,
       1159283813
     ],
-    "wof:lastmodified": 1643041382,
+    "wof:lastmodified": 1717038020,
     "wof:name": "AS9801 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
+        "custom_id": 1762673149,
         "flight_id": 1762673149
       }
     ],
@@ -63,11 +64,13 @@
       102555307,
       1159283597
     ],
-    "wof:lastmodified": 1641313550,
+    "wof:lastmodified": 1717038011,
     "wof:name": "AC574 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

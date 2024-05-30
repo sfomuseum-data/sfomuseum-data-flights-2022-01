@@ -51,6 +51,7 @@
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
+        "custom_id": 1762728053,
         "flight_id": 1762728053
       }
     ],
@@ -61,11 +62,13 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1641486320,
+    "wof:lastmodified": 1717038014,
     "wof:name": "AS9903 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1762774021,
         "flight_id": 1762774021
       }
     ],
@@ -58,11 +59,13 @@
       1159292085,
       102533795
     ],
-    "wof:lastmodified": 1642090951,
+    "wof:lastmodified": 1717038014,
     "wof:name": "UA2446 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

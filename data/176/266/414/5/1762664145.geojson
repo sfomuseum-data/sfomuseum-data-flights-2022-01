@@ -50,6 +50,7 @@
     "wof:geomhash": "db1125d5f6b158d369f65fa73fc455da",
     "wof:hierarchy": [
       {
+        "custom_id": 1762664145,
         "flight_id": 1762664145
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159284333
     ],
-    "wof:lastmodified": 1641140368,
+    "wof:lastmodified": 1717038013,
     "wof:name": "EK226 (SFO-DXB)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

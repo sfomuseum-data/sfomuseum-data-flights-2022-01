@@ -54,6 +54,7 @@
     "wof:geomhash": "7685368f2ace650ddf08145f6ec5f0c3",
     "wof:hierarchy": [
       {
+        "custom_id": 1762879609,
         "flight_id": 1762879609
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       102531811
     ],
-    "wof:lastmodified": 1643387122,
+    "wof:lastmodified": 1717038022,
     "wof:name": "DL8844 (OKC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

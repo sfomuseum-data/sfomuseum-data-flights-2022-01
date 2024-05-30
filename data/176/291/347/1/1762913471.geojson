@@ -54,6 +54,7 @@
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy": [
       {
+        "custom_id": 1762913471,
         "flight_id": 1762913471
       }
     ],
@@ -64,11 +65,13 @@
       102534161,
       1159285413
     ],
-    "wof:lastmodified": 1643646208,
+    "wof:lastmodified": 1717038019,
     "wof:name": "UA2735 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

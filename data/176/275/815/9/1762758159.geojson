@@ -54,6 +54,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1762758159,
         "flight_id": 1762758159
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1641917863,
+    "wof:lastmodified": 1717038015,
     "wof:name": "UA2093 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

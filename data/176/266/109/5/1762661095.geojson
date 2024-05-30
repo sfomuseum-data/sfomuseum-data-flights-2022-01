@@ -45,6 +45,7 @@
     "wof:geomhash": "aecdd4fa1f8944d2eefd3273b1547edd",
     "wof:hierarchy": [
       {
+        "custom_id": 1762661095,
         "flight_id": 1762661095
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283495
     ],
-    "wof:lastmodified": 1641139484,
+    "wof:lastmodified": 1717038020,
     "wof:name": "BA6147 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

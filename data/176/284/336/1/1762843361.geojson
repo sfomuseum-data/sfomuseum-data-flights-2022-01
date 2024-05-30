@@ -53,6 +53,7 @@
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
     "wof:hierarchy": [
       {
+        "custom_id": 1762843361,
         "flight_id": 1762843361
       }
     ],
@@ -63,11 +64,13 @@
       1159285413,
       1159289985
     ],
-    "wof:lastmodified": 1642782213,
+    "wof:lastmodified": 1717038018,
     "wof:name": "UA2567 (SFO-SJC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1762809087,
         "flight_id": 1762809087
       }
     ],
@@ -55,11 +56,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1642609306,
+    "wof:lastmodified": 1717038018,
     "wof:name": "AS1304 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

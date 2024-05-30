@@ -40,6 +40,7 @@
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
     "wof:hierarchy": [
       {
+        "custom_id": 1762785677,
         "flight_id": 1762785677
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1642263377,
+    "wof:lastmodified": 1717038013,
     "wof:name": "AS743 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

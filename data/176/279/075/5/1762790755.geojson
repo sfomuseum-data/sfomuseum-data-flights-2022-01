@@ -48,6 +48,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1762790755,
         "flight_id": 1762790755
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102533997
     ],
-    "wof:lastmodified": 1642350096,
+    "wof:lastmodified": 1717038012,
     "wof:name": "UA650 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

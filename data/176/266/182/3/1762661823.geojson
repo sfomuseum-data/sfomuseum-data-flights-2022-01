@@ -53,6 +53,7 @@
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy": [
       {
+        "custom_id": 1762661823,
         "flight_id": 1762661823
       }
     ],
@@ -63,11 +64,13 @@
       1159285227,
       1159289871
     ],
-    "wof:lastmodified": 1641140373,
+    "wof:lastmodified": 1717038011,
     "wof:name": "SY395 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

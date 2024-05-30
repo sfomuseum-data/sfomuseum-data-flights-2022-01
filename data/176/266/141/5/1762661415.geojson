@@ -52,6 +52,7 @@
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy": [
       {
+        "custom_id": 1762661415,
         "flight_id": 1762661415
       }
     ],
@@ -62,11 +63,13 @@
       102533575,
       1159284401
     ],
-    "wof:lastmodified": 1641140372,
+    "wof:lastmodified": 1717038020,
     "wof:name": "F92755 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

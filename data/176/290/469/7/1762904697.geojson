@@ -40,6 +40,7 @@
     "wof:geomhash": "faeea62a404843145345d63bcb6a7990",
     "wof:hierarchy": [
       {
+        "custom_id": 1762904697,
         "flight_id": 1762904697
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1643473247,
+    "wof:lastmodified": 1717038020,
     "wof:name": "UA1540 (SFO-RSW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

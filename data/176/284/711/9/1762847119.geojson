@@ -51,6 +51,7 @@
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
     "wof:hierarchy": [
       {
+        "custom_id": 1762847119,
         "flight_id": 1762847119
       }
     ],
@@ -61,11 +62,13 @@
       102556451,
       1159285413
     ],
-    "wof:lastmodified": 1642868560,
+    "wof:lastmodified": 1717038020,
     "wof:name": "UA892 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

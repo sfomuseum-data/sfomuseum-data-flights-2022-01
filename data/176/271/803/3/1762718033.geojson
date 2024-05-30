@@ -45,6 +45,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1762718033,
         "flight_id": 1762718033
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284489
     ],
-    "wof:lastmodified": 1641398920,
+    "wof:lastmodified": 1717038020,
     "wof:name": "KE7861 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

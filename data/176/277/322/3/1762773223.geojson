@@ -49,6 +49,7 @@
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
+        "custom_id": 1762773223,
         "flight_id": 1762773223
       }
     ],
@@ -59,11 +60,13 @@
       102527513,
       1159284401
     ],
-    "wof:lastmodified": 1642090941,
+    "wof:lastmodified": 1717038013,
     "wof:name": "F92790 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

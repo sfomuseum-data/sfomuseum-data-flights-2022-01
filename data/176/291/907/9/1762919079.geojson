@@ -45,6 +45,7 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
+        "custom_id": 1762919079,
         "flight_id": 1762919079
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284583
     ],
-    "wof:lastmodified": 1643731694,
+    "wof:lastmodified": 1717038022,
     "wof:name": "HA2273 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "c9806dbd281b9c6ccae24134b59a20cd",
     "wof:hierarchy": [
       {
+        "custom_id": 1762743149,
         "flight_id": 1762743149
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283539
     ],
-    "wof:lastmodified": 1641658603,
+    "wof:lastmodified": 1717038013,
     "wof:name": "VS7574 (SFO-GDL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

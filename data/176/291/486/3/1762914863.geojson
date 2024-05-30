@@ -54,6 +54,7 @@
     "wof:geomhash": "659cd7ad5e5126045522d61820d30c49",
     "wof:hierarchy": [
       {
+        "custom_id": 1762914863,
         "flight_id": 1762914863
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1643646219,
+    "wof:lastmodified": 1717038020,
     "wof:name": "DL8926 (SFO-HOU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

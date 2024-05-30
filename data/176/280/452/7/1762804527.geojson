@@ -48,6 +48,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1762804527,
         "flight_id": 1762804527
       }
     ],
@@ -58,11 +59,13 @@
       1394298249,
       102530049
     ],
-    "wof:lastmodified": 1642522998,
+    "wof:lastmodified": 1717038015,
     "wof:name": "UA2761 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

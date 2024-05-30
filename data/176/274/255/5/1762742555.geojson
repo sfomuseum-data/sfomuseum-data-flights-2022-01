@@ -50,6 +50,7 @@
     "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
     "wof:hierarchy": [
       {
+        "custom_id": 1762742555,
         "flight_id": 1762742555
       }
     ],
@@ -60,11 +61,13 @@
       102553219,
       102527513
     ],
-    "wof:lastmodified": 1641658612,
+    "wof:lastmodified": 1717038013,
     "wof:name": "PR105 (SFO-MNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

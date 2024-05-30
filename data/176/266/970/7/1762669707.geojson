@@ -45,6 +45,7 @@
     "wof:geomhash": "a1b63305ba93684d4b5beab1220ffb8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1762669707,
         "flight_id": 1762669707
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284211
     ],
-    "wof:lastmodified": 1641226490,
+    "wof:lastmodified": 1717038016,
     "wof:name": "BR3185 (SFO-PTY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

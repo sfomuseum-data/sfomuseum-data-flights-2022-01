@@ -49,6 +49,7 @@
     "wof:geomhash": "eba9741d16611c9af3d962416d546de7",
     "wof:hierarchy": [
       {
+        "custom_id": 1762674071,
         "flight_id": 1762674071
       }
     ],
@@ -59,11 +60,13 @@
       102549067,
       1159286015
     ],
-    "wof:lastmodified": 1641313558,
+    "wof:lastmodified": 1717038012,
     "wof:name": "LH458 (MUC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

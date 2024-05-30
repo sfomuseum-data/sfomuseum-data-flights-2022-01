@@ -52,6 +52,7 @@
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
+        "custom_id": 1762669607,
         "flight_id": 1762669607
       }
     ],
@@ -62,11 +63,13 @@
       1159293239,
       102549057
     ],
-    "wof:lastmodified": 1641226759,
+    "wof:lastmodified": 1717038016,
     "wof:name": "LH455 (SFO-FRA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy": [
       {
+        "custom_id": 1762918899,
         "flight_id": 1762918899
       }
     ],
@@ -58,11 +59,13 @@
       1528104583,
       102527513
     ],
-    "wof:lastmodified": 1643732586,
+    "wof:lastmodified": 1717038021,
     "wof:name": "DL9979 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

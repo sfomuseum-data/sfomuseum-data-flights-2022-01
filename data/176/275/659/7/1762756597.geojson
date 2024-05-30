@@ -53,6 +53,7 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
+        "custom_id": 1762756597,
         "flight_id": 1762756597
       }
     ],
@@ -63,11 +64,13 @@
       102530049,
       1159285413
     ],
-    "wof:lastmodified": 1641917868,
+    "wof:lastmodified": 1717038014,
     "wof:name": "UA1978 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

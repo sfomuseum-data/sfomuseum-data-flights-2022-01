@@ -48,6 +48,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1762750945,
         "flight_id": 1762750945
       }
     ],
@@ -58,11 +59,13 @@
       102533997,
       1159284489
     ],
-    "wof:lastmodified": 1641831507,
+    "wof:lastmodified": 1717038011,
     "wof:name": "HA12 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []

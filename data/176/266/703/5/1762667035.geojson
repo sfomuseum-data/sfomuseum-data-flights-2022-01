@@ -53,6 +53,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1762667035,
         "flight_id": 1762667035
       }
     ],
@@ -63,11 +64,13 @@
       1159292085,
       102527513
     ],
-    "wof:lastmodified": 1641226753,
+    "wof:lastmodified": 1717038014,
     "wof:name": "AS1058 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-01",
     "wof:superseded_by": [],
     "wof:supersedes": []
